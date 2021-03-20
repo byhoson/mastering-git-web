@@ -1,5 +1,37 @@
-# mastering-git-web
+# ai drop
 
-This repository houses a proposed website for the Mastering Git book.
+이 문서는 프로젝트에 대한 간략한 소개이다.
 
-Contact: mwkoo@sogang.ac.kr
+본 프로젝트의 이름은 **ai drop**으로, 컴퓨터비전 기술을 이용하여 사용자의 안구건조증의 해소를 목적으로 한다. 
+
+## 목차
+
+* [프로젝트 개요](#overview)
+* [선행 기술](#related)
+* [요약](#summary)
+
+## 프로젝트 개요
+
+프로젝트 이름: ai drop
+
+개발자: 손병호, 이태한, 한찬희
+
+----
+
+ai drop은 모바일 사용자의 눈깜빡임을 모니터링 해줌으로써 사용자의 안구 피로도를 최소화하고, 안구건조증을 해소하는 것이 목표입니다.
+
+----
+
+## 선행 기술
+
+cnn : convolutional neural network
+
+opencv : 파이썬 이미지 처리 라이브러리
+
+dlib : facial landscape를 검출하는 라이브러리
+
+EAR : 눈의 깜빡임을 측정하는 척도
+
+## 요약
+
+본 프로젝트의 실험 결과 사용자들로부터 눈의 피로도가 덜하다는 피드백을 받음.
